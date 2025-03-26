@@ -1,8 +1,8 @@
 ## Hi 👋, I'm Akash Biswas  
-### Software Developer | Full-Stack Engineer | AI Enthusiast  
+### Software Engineer | Full-Stack Developer | AI Enthusiast  
 
 🚀 Passionate about building scalable web applications and AI-powered solutions.  
-🔹 Currently developing **Qubiko**, an advanced AI chatbot using the **MERN stack & LangChain**.  
+🔹 Currently developing **Qubiko**, an advanced AI chatbot using the **MERN stack, Web socket & LangChain**.  
 📍 Based in **Kalna** | 💻 Exploring **cutting-edge technologies**  
 
 ---

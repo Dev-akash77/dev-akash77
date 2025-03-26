@@ -7,33 +7,7 @@
 
 ---
 
-## 🎯 My Goal  
-
-My mission is to become a **top 1% full-stack developer** by building **cutting-edge AI applications** and mastering advanced development concepts.  
-
-🔹 **Master the MERN stack** and create **scalable, high-performance web applications**.  
-🔹 **Deep dive into AI & LLMs**, building production-ready AI chatbots & automation tools.  
-🔹 **Achieve expertise in system design**, best practices, and clean architecture.  
-🔹 **Contribute to open-source projects** and engage in **collaborative development**.  
-
-My ultimate aim is to **create AI-driven solutions** that **impact millions of users** while **continuously pushing the boundaries of innovation**. 🚀🔥  
-
----
-
-## 👨‍💻 My Coding Journey  
-
-I started my journey as a **self-taught developer** at **16 years old**, exploring the vast world of **web development** through **YouTube tutorials** and **hands-on projects**.  
-
-🔹 **Built 60+ projects** (small to large-scale) without formal CS education.  
-🔹 Currently working on **Qubiko**, an **AI-powered chatbot** using **Google Gemini API** & **LangChain**.  
-🔹 Self-learning **AI, LLMs, and advanced backend architectures** to build **industry-standard applications**.  
-🔹 Aiming to build **three more complex projects** to **master full-stack development**.  
-
-🚀 **From a beginner writing my first HTML page to building AI-powered applications, my journey has been all about persistence, learning, and innovation.**  
-
----
-
-## 📊 GitHub Stats  
+### 📊 GitHub Stats  
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Dev-akash77&show_icons=true&count_private=true&theme=vue-dark&hide_border=false" height="150" alt="GitHub Stats" />
@@ -42,7 +16,7 @@ I started my journey as a **self-taught developer** at **16 years old**, explori
 
 ---
 
-## 🛠️ Tech Stack  
+### 🛠️ Tech Stack  
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
@@ -72,7 +46,7 @@ I started my journey as a **self-taught developer** at **16 years old**, explori
 
 ---
 
-## 🌍 Connect with Me  
+### 🌍 Connect with Me  
 
 <div align="left">
   <a href="https://www.instagram.com/akash_biswa_s/" target="_blank">
@@ -91,8 +65,16 @@ I started my journey as a **self-taught developer** at **16 years old**, explori
 
 ---
 
-## 🐍 GitHub Contribution Snake  
+### 🐍 GitHub Contribution Snake  
 
 <div align="center">
-  <img src="https://github.com/Dev-akash77/Dev-akash77/blob/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/Dev-akash77/Dev-akash77/output/snake.svg" alt="Snake animation" />
 </div>
+
+---
+
+💡 **"Code. Learn. Build. Repeat."**  
+🚀 *Always pushing the boundaries of technology!*  
+
+add more more content my aim my code journy more content
+and snake animation still not visible

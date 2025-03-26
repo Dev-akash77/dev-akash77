@@ -10,9 +10,10 @@
 ### 📊 GitHub Stats  
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-akash77&show_icons=true&count_private=true&theme=vue-dark&hide_border=false" height="150" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-akash77&layout=compact&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dev-akash77&show_icons=true&count_private=true&theme=light&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-akash77&layout=compact&langs_count=5&theme=light&hide_border=false" height="150" alt="Top Languages" />
 </div>
+
 
 ---
 

@@ -75,6 +75,3 @@
 
 💡 **"Code. Learn. Build. Repeat."**  
 🚀 *Always pushing the boundaries of technology!*  
-
-add more more content my aim my code journy more content
-and snake animation still not visible

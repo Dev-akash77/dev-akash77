@@ -70,14 +70,6 @@ No computer science degree. No courses. No mentors. Just **grind, discipline, an
 
 ---
 
-### 🐍 Contribution Graph  
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Dev-akash77/Dev-akash77/output/snake.svg" />
-</div>
-
----
-
 ### 🌍 Connect with Me
 
 <div align="left">

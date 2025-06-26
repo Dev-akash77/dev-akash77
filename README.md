@@ -1,18 +1,17 @@
 ## Hi 👋, I'm Akash Biswas  
-### Full-Stack Developer | AI Engineer | Tech Explorer  
+### Software Developer | AI Engineer | Tech Explorer | Co-Founder
 
 ---
 
 ### 🚀 About Me
 
-I’m a self-taught developer who started coding at **16 years old** — with just a mobile phone, a keyboard, and fire in my heart.  
-No computer science degree. No courses. No mentors. Just **grind, discipline, and pure passion** for building amazing things.
+I'm a software developer who started coding at 16 — using just a mobile phone, keyboard, and an unstoppable mindset. No CS degree. No paid courses. No mentors. Just relentless self-learning and building.
 
-- Completed **66+ projects** from scratch (solo).
-- Currently pursuing a **Diploma in Electronics & Communication Engineering**.  
-- Planning to pursue **BTech in CS (2026)** and get **job-ready before that**.
+I've solo-built **66+ full-stack projects** — from monoliths to scalable systems using **Docker**, **Redis**, **WebSocket**, and **Microservices**. My work focuses on real-time apps, clean architecture, and performance-first engineering.
 
-> “I didn’t wait for opportunity — I **coded my own path**.”
+Currently pursuing a Diploma in Electronics & Communication Engineering. Planning B.Tech in CS (2026) — but already preparing to be job-ready with real-world experience and deep system knowledge.
+
+> I don’t wait for opportunity — I build what others wait for.
 
 ---
 

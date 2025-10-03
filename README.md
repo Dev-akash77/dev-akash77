@@ -88,7 +88,7 @@ Currently pursuing a Diploma in Electronics & Communication Engineering. Plannin
 
 ---
 
-### 💬 Final Words
+### 💬 Final Word
 
 > **"From Kalna to Code. From Mobile to Mastery."**  
 > My journey proves that **consistency beats everything**.  

@@ -1,9 +1,9 @@
-## Hi 👋, I'm Akash Biswas  
+## Hi , I'm Akash Biswas  
 ### Software Developer | AI Engineer | Tech Explorer | Co-Founder
 
 ---
 
-### 🚀 About Me
+###  About Me
 
 I'm a software developer who started coding at 16 — using just a mobile phone, keyboard, and an unstoppable mindset. No CS degree. No paid courses. No mentors. Just relentless self-learning and building.
 
@@ -15,7 +15,7 @@ Currently pursuing a Diploma in Electronics & Communication Engineering. Plannin
 
 ---
 
-### 🛠️ Tech Stack & Tools
+###  Tech Stack & Tools
 
 **Languages & Frameworks:**  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
@@ -88,7 +88,7 @@ Currently pursuing a Diploma in Electronics & Communication Engineering. Plannin
 
 ---
 
-### 💬 Final Word
+###  Final Word
 
 > **"From Kalna to Code. From Mobile to Mastery."**  
 > My journey proves that **consistency beats everything**.  

@@ -48,7 +48,7 @@ Currently pursuing a Diploma in Electronics & Communication Engineering. Plannin
 
 ---
 
-### 🧠 Current Projects
+### Current Projects
 
 - **Qubiko** — Full-fledged AI assistant  
   → MERN + LangChain + Gemini + WebSocket  

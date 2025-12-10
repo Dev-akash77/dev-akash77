@@ -1,19 +1,16 @@
-## Hi , I'm Akash Biswas  
-### Software Developer | AI Engineer | Tech Explorer | Co-Founder
+## Hi, I'm Akash Biswas  
+### Full-Stack Developer | AI Engineer | Tech Innovator
 
 ---
 
-###  About Me
+I'm a self-taught software developer who started coding at 16 using only a mobile and keyboard. No CS degree. No courses. Just relentless learning and building.  
 
-I'm a software developer who started coding at 16 — using just a mobile phone, keyboard, and an unstoppable mindset. No CS degree. No paid courses. No mentors. Just relentless self-learning and building.
+Built **66+ full-stack projects**, ranging from scalable **Microservices** to **real-time apps** using **Docker, Redis, WebSocket**, and modern frameworks. Focused on **clean architecture**, **performance-first engineering**, and **AI-powered solutions**.  
 
-I've solo-built **66+ full-stack projects** — from monoliths to scalable systems using **Docker**, **Redis**, **WebSocket**, and **Microservices**. My work focuses on real-time apps, clean architecture, and performance-first engineering.
+Currently pursuing **Diploma in Electronics & Communication Engineering** (B.Tech CS in 2026), already gaining **real-world experience** with complex systems.  
 
-Currently pursuing a Diploma in Electronics & Communication Engineering. Planning B.Tech in CS (2026) — but already preparing to be job-ready with real-world experience and deep system knowledge.
+> "I don’t wait for opportunities — I build them."
 
-> I don’t wait for opportunity — I build what others wait for.
-
----
 
 ###  Tech Stack & Tools
 
@@ -81,13 +78,68 @@ Currently pursuing a Diploma in Electronics & Communication Engineering. Plannin
 
 ### Current Projects
 
-- **Qubiko** — Full-fledged AI assistant  
-  → MERN + LangChain + Gemini + WebSocket  
-  → Agentic workflows, image generation, chat memory, real-time streaming
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3 align="center">Nuegas — Task Manager</h3>
+      <br>
+      <p align="center">
+        <a href="https://github.com/Dev-akash77/Nuegas">
+          <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" height="30">
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong><br>
+      <code>React</code> <code>Node.js</code> <code>WebRTC</code> <code>WebSocket</code> <code>TailwindCSS</code></p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>Real-time video calls and file uploads</li>
+        <li>AI-powered todo suggestions</li>
+        <li>Drag & drop task management</li>
+        <li>Collaborative workflows with live activity tracking</li>
+        <li>Optimized for performance with Redis caching</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">ResumePilot — AI Resume Builder</h3>
+      <br>
+      <p align="center">
+        <a href="https://github.com/Dev-akash77/ResumePilot">
+          <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" height="30">
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong><br>
+      <code>React</code> <code>Node.js</code> <code>TailwindCSS</code> <code>PDF Generation</code> <code>OpenAI API</code></p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>High-quality PDF resume generation</li>
+        <li>Customizable templates and sections</li>
+        <li>AI-powered suggestions for skills and experience</li>
+        <li>Mobile-friendly and interactive UI</li>
+        <li>Fast generation with optimized caching</li>
+      </ul>
+    </td>
+    <td width="33%" valign="top">
+      <h3 align="center">Qubiko — AI Assistant</h3>
+      <br>
+      <p align="center">
+        <a href="https://github.com/Dev-akash77/Qubiko">
+          <img src="https://img.shields.io/badge/View_Repository-000000?style=for-the-badge&logo=github&logoColor=white" height="30">
+        </a>
+      </p>
+      <p><strong>Tech Stack:</strong><br>
+      <code>MongoDB</code> <code>Express.js</code> <code>React</code> <code>Node.js</code> <code>LangChain</code> <code>Gemini AI</code></p>
+      <p><strong>Key Features:</strong></p>
+      <ul>
+        <li>Autonomous multi-step AI workflows</li>
+        <li>Real-time streaming responses via WebSocket</li>
+        <li>Contextual memory with vector DB embeddings</li>
+        <li>AI-powered content and image generation</li>
+        <li>Extensible plugin system for dynamic functionality</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-- **Nuegas** — Task Manager  
-  → Real-time file uploads, video calls, WebRTC  
-  → AI-powered todo suggestions, drag & drop, typing indicators
 
 ---
 
@@ -112,20 +164,16 @@ Currently pursuing a Diploma in Electronics & Communication Engineering. Plannin
 ---
 ---
 
-### GitHub Stats  
+### GitHub Stats   
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dev-akash77&show_icons=true&count_private=true&theme=light&hide_border=false" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dev-akash77&layout=compact&langs_count=5&theme=light&hide_border=false" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-akash77&theme=light&hide_border=false" alt="GitHub Streak" height="150" />
 </div>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dev-akash77&theme=light&hide_border=false" height="150" />
-</div>
 
 ---
 
-### 🐍 Contribution Snake
+###  Contribution Snake
 
 <div align="center">
   <img src="https://github.com/Dev-akash77/Dev-akash77/blob/output/github-contribution-grid-snake.svg" alt="snake animation" width="100%" />

@@ -1,5 +1,5 @@
 ## Hi, I'm Akash Biswas  
-### Full-Stack Developer | AI Engineer | Tech Innovators
+### Full-Stack Developer | AI Engineer | Tech Innovator
 
 ---
 

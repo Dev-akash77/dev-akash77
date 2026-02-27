@@ -134,7 +134,7 @@ Currently pursuing **Diploma in Electronics & Communication Engineering** (B.Tec
         <li>Real-time streaming responses via WebSocket</li>
         <li>Contextual memory with vector DB embeddings</li>
         <li>AI-powered content and image generation</li>
-        <li>Extensible plugin system for dynamic functionality</li>
+        <li>Extensible plugin system for dynamic functionalities</li>
       </ul>
     </td>
   </tr>

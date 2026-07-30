@@ -3,7 +3,7 @@
 
 ---
 
-I'm a self-taught Fullstack Software Developer who started coding at 16 using only a mobile and keyboard. No CS degree. No courses. Just relentless learning and building.  
+I'm a self-taught Software Developer who started coding at 16 using only a mobile and keyboard. No CS degree. No courses. Just relentless learning and building.  
 
 Built **66+ full-stack projects**, ranging from scalable **Microservices** to **real-time apps** using **Docker, Redis, WebSocket**, and modern frameworks. Focused on **clean architecture**, **performance-first engineering**, and **AI-powered solutions**.  
 
